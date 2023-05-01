@@ -16,7 +16,7 @@
 
 Итог
 
-[Скриншот 2](https://github.com/PugachEV72/Images/blob/master/2023-05-01_18-21-28.png)
+![Скриншот 2](https://github.com/PugachEV72/Images/blob/master/2023-05-01_18-21-28.png)
 
 
 ---
